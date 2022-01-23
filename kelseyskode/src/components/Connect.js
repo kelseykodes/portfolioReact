@@ -21,7 +21,8 @@ const styles = {
 function Connect() {
   return (
     <div style={styles.card} id="connect">
-      <h2 style={styles.heading}>Connect With Me</h2><p class="social-buttons"><a href="mailto:kelseykodes@yahoo.com"> Email Me!</a></p>
+      <h2 style={styles.heading}>Connect With Me</h2>
+      <p class="social-buttons"><a href="mailto:kelseykodes@yahoo.com"> Email Me!</a></p>
       <p class="social-buttons"><a href="https://github.com/kelseykodes">Follow Me On Github!</a></p>
       <p class="social-buttons"><a href="https://www.linkedin.com/in/kelsey-perkins">Let's Link!</a></p>
     </div>

@@ -40,7 +40,7 @@ const styles = {
     }
   },
 };
-//TODO: Need to add photo of resume and downloadable
+//TODO: Need to adjust photo size of resume and downloadable
 function Resume() {
   return (
     <div style={styles.card} id="resume">
