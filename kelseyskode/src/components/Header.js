@@ -15,7 +15,7 @@ const styles = {
   },
 };
 export default function Header() {
-
+//TODO: Center in middle of page
   return (
     <div>
        <h1 style={styles.header}>Kelsey's Kode</h1>  

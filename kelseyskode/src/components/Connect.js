@@ -17,7 +17,7 @@ const styles = {
   },
 };
 
-// In Navbar, we can assign a style from an object by using curly braces
+// TODO: Span links horizontal instead of vertical
 function Connect() {
   return (
     <div style={styles.card} id="connect">

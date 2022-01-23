@@ -14,7 +14,7 @@ const styles = {
     padding: '0 20px',
   },
 };
-
+//TODO: Add project app preview images and list technologies used
 function Projects() {
   return (
     <div style={styles.card} id="projects">

@@ -14,7 +14,7 @@ const styles = {
     padding: '0 20px',
   },
 };
-
+// TODO: Try get links to span instead of vertical
 function Navbar() {
   return (
     <div style={styles.card}>
@@ -27,6 +27,6 @@ function Navbar() {
       {/* <div style={styles.heading}>About Me </div> */}
     </div>
   );
-}ß
+}
 
 export default Navbar;

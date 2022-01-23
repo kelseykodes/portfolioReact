@@ -17,7 +17,7 @@ const styles = {
   },
 };
 
-// In Navbar, we can assign a style from an object by using curly braces
+// TODO: Spice up styling
 function Education() {
   return (
     <div style={styles.card}>
