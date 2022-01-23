@@ -1,7 +1,5 @@
 import React from 'react';
 
-// We declare an object called styles that will contain a few objects for card and heading styles
-// Notice that each key lists CSS styles in camel case
 const styles = {
   card: {
     margin: 20,
@@ -17,15 +15,14 @@ const styles = {
   },
 };
 
-// In Navbar, we can assign a style from an object by using curly braces
 function Navbar() {
   return (
     <div style={styles.card}>
        <ul style={styles.heading}>
-        <li>About Me</li>
-        <li>Projects</li>
-        <li>Resume</li>
-        <li>Connect With Me</li>
+        <a href="#bio"><p>About Me</p></a>
+        <a href="#projects"><p>Projects</p></a>
+        <a href="#resume"><p>Resume</p></a>
+        <a href="#connect"><p>Connect With Me</p></a>
       </ul>
       {/* <div style={styles.heading}>About Me </div> */}
     </div>

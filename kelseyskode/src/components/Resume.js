@@ -20,7 +20,7 @@ const styles = {
 // In Navbar, we can assign a style from an object by using curly braces
 function Resume() {
   return (
-    <div style={styles.card}>
+    <div style={styles.card} id="resume">
       <h2 style={styles.heading}>Resume</h2>
     </div>
   );

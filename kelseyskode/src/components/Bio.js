@@ -24,7 +24,7 @@ const styles = {
 // We are assigning the card, heading, and content all from our `style` object
 function Bio() {
   return (
-    <div style={styles.card}>
+    <div style={styles.card} id="bio">
       <div style={styles.heading}>About Me</div>
       <div style={styles.content}>
         Hello! My name is Kelsey and I'm an aspiring software engineer. I'm currently located in Chicago and I graduated from Georgia State University. I enjoy collaborating with other team members to create and develop unique mobile applications as well as interactive web page designs. My journey as a software engineer is just getting started so feel free to visit my page again to see updated projects I create along the way!

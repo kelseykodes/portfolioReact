@@ -20,12 +20,11 @@ const styles = {
 // In Navbar, we can assign a style from an object by using curly braces
 function Connect() {
   return (
-    <div style={styles.card}>
-      <h2 style={styles.heading}>Connect With Me</h2><p class="social-buttons"><a href="/kelseykode-2.0/energy/assets/KELSEY PERKINS Resume.pdf" title=""><span> <i class="fa fa-envelope"></i></span>  Email Me!</a></p>
-      <p class="social-buttons"><a href="https://github.com/kelseykodes"><span class="social-round-icon fa-icon"><i class="fa fa-github"></i></span> Follow Me On Github!</a></p>
-      <p class="social-buttons"><a href="https://www.linkedin.com/in/kelseyperkinsreporter"><span class="social-round-icon fa-icon"><i class="fa fa-linkedin"></i></span>  Let's Link!</a></p>
+    <div style={styles.card} id="connect">
+      <h2 style={styles.heading}>Connect With Me</h2><p class="social-buttons"><a href="mailto:kelseykodes@yahoo.com"> Email Me!</a></p>
+      <p class="social-buttons"><a href="https://github.com/kelseykodes">Follow Me On Github!</a></p>
+      <p class="social-buttons"><a href="https://www.linkedin.com/in/kelsey-perkins">Let's Link!</a></p>
     </div>
   );
 }
-
 export default Connect;
