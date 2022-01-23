@@ -27,6 +27,6 @@ function Navbar() {
       {/* <div style={styles.heading}>About Me </div> */}
     </div>
   );
-}
+}ß
 
 export default Navbar;
