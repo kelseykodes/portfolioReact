@@ -6,11 +6,12 @@ const styles = {
     background: '#e8eaf6',
   },
   header: {
-    background: '#9a74db',
+    background: 'white',
     minHeight: 50,
     lineHeight: 3.5,
+    margin: 20,
     fontSize: '1.2rem',
-    color: 'red',
+    color: '#9a74db',
     padding: '0 20px',
   },
 };

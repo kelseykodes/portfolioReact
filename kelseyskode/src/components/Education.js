@@ -6,6 +6,7 @@ const styles = {
   card: {
     margin: 20,
     background: '#e8eaf6',
+    padding: '20px'
   },
   heading: {
     background: '#9a74db',
