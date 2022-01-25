@@ -4,14 +4,15 @@ Welcome to Kelsey's Kode! My favorite software engineering projects are displaye
 
 
 ### `App Preview`
+- Website Preview Screen:
 
-
+<img src=''>
 
 
 ### `Deployment`
 
+<a href=''> Launch My Portfolio!</a>
 
+### `Technologies`
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+React.js
