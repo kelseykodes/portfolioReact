@@ -3,10 +3,10 @@ import React from 'react';
 const styles = {
   card: {
     margin: 20,
-    background: '#e8eaf6'
+    background: '#white'
   },
   content: {
-    background: '#9a74db',
+    background: '#d8a5fa',
     minHeight: 50,
     lineHeight: 3.5,
     fontSize: '1.2rem',

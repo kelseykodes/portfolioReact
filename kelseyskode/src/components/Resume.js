@@ -27,7 +27,7 @@ const styles = {
     background: '#e8eaf6',
   },
   heading: {
-    background: '#9a74db',
+    background: '#d8a5fa',
     minHeight: 50,
     lineHeight: 3.5,
     fontSize: '1.2rem',
@@ -37,8 +37,9 @@ const styles = {
   pic: {
     crop: {
       unit: '%',
-      width: 200,
-      aspect: 16 / 9
+      width: 500,
+      aspect: 16 / 9,
+      margin: 20,
     }
   },
 };
