@@ -10,7 +10,7 @@ Welcome to Kelsey's Kode! My favorite software engineering projects are displaye
 
 ### `Usuage`
 - In your terminal run the command: npm install
-- Change directory into `Kkelseyskode`
+- Change directory into `kelseyskode`
 - Then run the following command: npm start
 
 ### `Deployment`
