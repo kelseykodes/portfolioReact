@@ -6,7 +6,7 @@ Welcome to Kelsey's Kode! My favorite software engineering projects are displaye
 ### `App Preview`
 - Website Preview Screen:
 
-<img src=''>
+<img src='./src/images/preview.png'>
 
 ### `Usuage`
 - In your terminal run the command: npm install
