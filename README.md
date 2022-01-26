@@ -8,6 +8,10 @@ Welcome to Kelsey's Kode! My favorite software engineering projects are displaye
 
 <img src=''>
 
+### `Usuage`
+- In your terminal run the command: npm install
+- Change directory into `Kkelseyskode`
+- Then run the following command: npm start
 
 ### `Deployment`
 
