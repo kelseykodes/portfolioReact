@@ -12,7 +12,7 @@ const styles = {
     fontSize: '1.2rem',
     color: 'white',
     padding: '0 20px',
-    // display: 'inline',
+    display: 'flex',
   },
 };
 // TODO: Try get links to span instead of vertical
