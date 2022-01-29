@@ -1,6 +1,7 @@
 {
   "name": "kelseyskode",
-  "version": "0.1.0","homepage": "https://kelseykodes.github.io/portfolioReact",
+  "version": "0.1.0",
+  "homepage": "https://kelseykodes.github.io/portfolioReact",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",

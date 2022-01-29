@@ -15,7 +15,7 @@ Welcome to Kelsey's Kode! My favorite software engineering projects are displaye
 
 ### `Deployment`
 
-<a href=''> Launch My Portfolio!</a>
+<a href='https://kelseykodes.github.io/portfolioReact/'> Launch My Portfolio!</a>
 
 ### `Technologies`
 
